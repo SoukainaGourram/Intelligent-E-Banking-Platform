@@ -273,7 +273,7 @@ Intelligent-E-Banking-Platform/
 
 <div align="center">
 
-Made with ❤️ by **Soukaina Gourram**  
+ by **Soukaina Gourram**  
 [GitHub](https://github.com/SoukainaGourram/Intelligent-E-Banking-Platform)
 
 </div>
